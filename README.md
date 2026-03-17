@@ -1,7 +1,7 @@
-# Fishing Port Management System
+# DigiPortXpress
 
 ## Overview
-The Fishing Port Management System is a web-based application designed to streamline and digitize the operations of a fishing port. It enables efficient management of boats, fishermen, workers, and customer interactions, automating attendance, trip tracking, and arrival updates.
+DigiPortXpress is a  web-based application designed to streamline and digitize the operations of a fishing port. It enables efficient management of boats, fishermen, workers, and customer interactions, automating attendance, trip tracking, and arrival updates.
 
 ## Features
 - Fisherman registration and authentication
@@ -53,3 +53,4 @@ This project is for educational and demonstration purposes.
 
 ## Contact
 For support or questions, please use the contact form in the application or email the project maintainer.
+
